@@ -4,7 +4,7 @@ LadyCare Website
 Welcome to the LadyCare Website Clone repository! This project is a simple clone of the LadyCare website, implemented using HTML, CSS, and JavaScript. The goal of this project is to demonstrate basic e-commerce functionalities such as adding items to the cart, making a purchase, filtering products, and searching for specific items.
 
 Features
-* Add to Cart: Users can easily add products to their shopping cart.
+"*" Add to Cart: Users can easily add products to their shopping cart.
 
 Purchase: A simple checkout process allows users to make a purchase.
 
